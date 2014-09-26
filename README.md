@@ -1,7 +1,7 @@
 ## jessGWAS
 
 ### Description
-A (n initially) pooled GWAS study of piperiquine resistance in P. falciparum isolates from Cambodia. About 40 low IC50 and 20 high IC50 samples were pooled _then_ prepped and run on one MiSeq 2x250 run. 
+A (n initially) pooled GWAS study of piperiquine resistance in P. falciparum isolates from Cambodia. About 40 low IC50 and 20 high IC50 samples were pooled _then_ prepped and run on one MiSeq 2x250 run. Please see the project [wiki](https://github.com/christianparobek/jessGWAS/wiki) for more details.
 
 ### Pipeline Components
 * Alignment (BWA-MEM or BT2?)
